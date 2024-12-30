@@ -42,8 +42,9 @@ The objective of this project is to analyze Instagram reach data to provide acti
   - Python 3.7 or newer
   - Jupyter Notebook or any Python IDE
 
-## Usage
+## Visualizations
+This project includes visualizations such as:
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/Instagram-Reach-Analysis.git
+- Time-series plots for reach, impressions, and interactions.
+- Bar plots for top-performing posts.
+- Heatmaps for engagement patterns.
